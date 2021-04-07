@@ -1,1 +1,2 @@
-rm -f *.*
+shopt -s extglob
+rm !(*.sh)
