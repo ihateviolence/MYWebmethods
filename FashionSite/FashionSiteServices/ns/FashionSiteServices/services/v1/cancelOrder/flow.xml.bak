@@ -520,6 +520,9 @@
 </Values>
 </DATA>
 </MAPSET>
+
+<MAPDELETE FIELD="/removed;1;0">
+</MAPDELETE>
 </MAP>
 </INVOKE>
 </SEQUENCE>
